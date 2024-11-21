@@ -1,0 +1,3 @@
+package dvma
+
+func Median() {}
